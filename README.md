@@ -91,6 +91,10 @@ The analysis identified several improvements needed for future customer-service 
 - Detection of structural measurement problems
 - Transparent handling of inconclusive results
 - Translation of analytical limitations into business recommendations
+  ## 📂 Project Deliverables
+
+- [Checkpoint 1 — Business & KPI Framework](flipkart-customer-service-analysis-checkpoint-1.pdf)
+- [Checkpoint 3 — Hypothesis Testing & Measurement Audit](flipkart-customer-service-analysis-checkpoint-3.pdf)
 
 ## 🛠️ Skills Demonstrated
 
