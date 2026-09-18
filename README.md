@@ -1,4 +1,5 @@
 # Flipkart — Customer Service Analytics
+![Flipkart Customer Service Analytics](flipkart-customer-service-analytics-cover.png)
 
 ## 📌 Project Overview
 
